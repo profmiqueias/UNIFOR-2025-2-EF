@@ -1,4 +1,5 @@
-# UNIFOR-2025-2-EF
-
 ## Overview
 Projeto de teste da turma EF
+
+### Modificações realizadas
+- Adicionado um arquivo index.html
